@@ -1,6 +1,6 @@
 #ENTRADA
 
-mesAño =int (input("digita mes del año"))
+mesAño =input("digita mes del año")
 
 #CAMINOS
 if mesAño == "Marzo" or mesAño == "Abril" or mesAño =="Mayo":
